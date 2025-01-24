@@ -10,3 +10,4 @@ scipy
 matplotlib
 plotly
 langchain_groq
+langchain_community
