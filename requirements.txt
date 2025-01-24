@@ -9,3 +9,4 @@ dash
 scipy
 matplotlib
 plotly
+langchain_groq
