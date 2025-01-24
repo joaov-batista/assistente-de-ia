@@ -66,7 +66,7 @@ def gerar_resposta(mensagens, documento):
         return "Modelo não configurado. Insira sua chave de API para continuar."
     
     mensagem_system = '''Você é um assistente IA, capaz de de ler pdfs, compreender
-    videos do Youtube atráves da captação de legendas, e ler a pagina de um site,
+    videos do Youtube, e ler a pagina de um site,
     seu objetivo é facilitar a informação para o usuario.
     Você tem acesso às seguintes informações para formular respostas: {informações}
     Você pode formular respostas sem as {informações} também.'''
