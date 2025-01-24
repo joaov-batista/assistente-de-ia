@@ -13,4 +13,4 @@ python-dotenv
 pandas
 pdfplumber
 pypdf
-YoutubeLoader
+youtube-transcript-api
